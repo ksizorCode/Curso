@@ -1,0 +1,7 @@
+<svg width="223" height="538" viewBox="0 0 223 538" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="223" height="538" rx="111.5" fill="#FFE91F" id="cuerpo"/>
+<circle cx="111.5" cy="213.5" r="103.5" fill="white" stroke="black" stroke-width="6" id="ojo"/>
+<circle cx="111" cy="213" r="56" fill="black" id="pupila"/>
+<circle cx="138.5" cy="171.5" r="36.5" fill="white"/>
+<circle cx="108" cy="415" r="21" fill="black"/>
+</svg>
