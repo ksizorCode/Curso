@@ -56,11 +56,12 @@ ul#galeria li:hover .tags li{ border:1 grey solid; }
 
 
 
-/* list */
-ul#galeria.grid li { border-radius:20px !important;}
-ul#galeria.grid li img{ display: block;}
+/* grid */
+ul#galeria.grid li { border-radius:20px !important; max-width:210px;}
+ul#galeria.grid li img{display: block;max-width: 196px;}
 ul#galeria.grid:hover img{ border-radius:18px;}
-.list{}
+
+/* list */
 ul#galeria.list > li{ width:100%; flex-direction: row; border-radius:6px;}
 ul#galeria.list > li a{ display:flex;}
 ul#galeria.list img{ height: 36px;margin: 0 16px 0 0;border-radius: 4px;}
