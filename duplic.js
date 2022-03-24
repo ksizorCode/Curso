@@ -1,14 +1,14 @@
 
 const data=[
   //  00 Título   --- 01 Texto ----                                                 02  archivo.jpg ---- 03 ruta ---                    04 tags
-    ['Juego Planos', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js']],
-    ['Simpson Builder 1', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js']],
-    ['Simpson Builder 2', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js']],
-    ['Interactivo Planos', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js']],
-    ['Coloreando Minions', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js','figma']],
-    ['SVG Modifier', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js','figma']],
-    ['Juego Planos', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js']],
-    ['Juego Planos', 'Interacivo en el que determinar que tipo de plano aparece', 'juego-planos.jpg', 'juego-planos/juegoplanos2.html', ['html','css','js']]
+    ['Juego Planos', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js']],
+    ['Simpson Builder 1', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js']],
+    ['Simpson Builder 2', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js']],
+    ['Interactivo Planos', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js']],
+    ['Coloreando Minions', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js','figma']],
+    ['SVG Modifier', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js','figma']],
+    ['Juego Planos', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js']],
+    ['Juego Planos', 'Interacivo en el que determinar que tipo de plano aparece', '001.png', 'juego-planos/juegoplanos2.html', ['html','css','js']]
   ]
   
 
@@ -21,7 +21,7 @@ for(let i=0; i< data.length-1; i++){
 
   item+='<li>';
   item+='<a href="'+data[i][3]+'" target="_blank">';
-  item+='<img src="'+data[i][2]+'" alt="">';
+  item+='<img src="img/'+data[i][2]+'" alt="">';
   item+='<div class="text">';
   item+='<h3>'+data[i][0]+'</h3>';
   item+='<p>'+data[i][1]+'</p>';
