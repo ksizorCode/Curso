@@ -1,9 +1,3 @@
-
-
-
-
-
-
 const element = document.getElementById("galeria");
 const e2= document.getElementById("btn_cambiar");
 
