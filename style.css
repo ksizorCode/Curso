@@ -70,11 +70,12 @@ ul#galeria.list >li:hover img{ margin-right:30px; transform:scale(1.18); }
 
 footer{ font-size:0.6em; text-align:center; margin-top:30px}
 
+button{ padding:4px 10px; border:1px grey solid; border-radius:20px; margin:4px 0px;}
+button:hover{ background:grey; color:white;}
+
+
+
 /* transform */
 
 ul li, ul li img, .tags, a, button{ transition: .3s }
 
-
-
-button{ padding:4px 10px; border:1px grey solid; border-radius:20px; margin:4px 0px;}
-button:hover{ background:grey; color:white;}
