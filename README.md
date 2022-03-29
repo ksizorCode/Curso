@@ -4,6 +4,7 @@
 
 Puedes accerder al la vista en modo página web através del enlace: [ksizorCode.github.io/Curso](https://ksizorCode.github.io/Curso)
 
+## Furrula esto en tu dispositivo?
 
 | Plataforma | Mac | PC | Android | iOS |
 |---|---|---|---|---|
