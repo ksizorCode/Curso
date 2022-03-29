@@ -6,6 +6,6 @@ Puedes accerder al la vista en modo página web através del enlace: [ksizorCode
 
 ## Furrula esto en tu dispositivo?
 
-| Televisión mi Abuela | Mac | PC | Android | iOS |
+| Televisión mi Abuela | Mac | PC | Android | iOS | Windows Me |
 |---|---|---|---|---|
-| No Furrula | Furrula | Furrula | Furrula | Furrula|
+| No Furrula | Furrula | Furrula | Furrula | Furrula| Cuélgase |
